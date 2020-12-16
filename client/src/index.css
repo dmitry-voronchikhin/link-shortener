@@ -1,0 +1,23 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.login-btn {
+  margin-right: 10px;
+}
+
+.login-card {
+  margin-top: 100px;
+}
+
+.navbar {
+  padding: 0 2rem;
+}
+
+.cp-col {
+  padding-top: 2rem;
+}
+
+.preloader {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
